@@ -84,7 +84,11 @@ main {
 }
 
 /* Shield */
-
+#shield {
+    height: 600px;
+    width: 100%;
+    
+}
 
 /* Footer */
 #social-networks {
