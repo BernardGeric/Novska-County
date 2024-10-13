@@ -35,7 +35,8 @@ h1 {
     font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: #252525;
+    color: #fc1212;
+    text-align: center;
 }
 
 #menu {
@@ -46,6 +47,7 @@ h1 {
 
 #menu > li {
     margin-bottom: 1em;
+    text-align: center;
 }
 
 /* Navbar styles with dropdown toggle */
@@ -80,9 +82,7 @@ main {
 }
 
 /* Main content */
-main {
-    background-color: rgb(114, 177, 248);
-}
+
 
 /* Footer */
 #social-networks {
@@ -127,7 +127,7 @@ footer {
     }
 
     #logo {
-        font-size: 280%;
+        font-size: 300%;
         line-height: 75px;
         margin: 0 0.5rem;
     }
