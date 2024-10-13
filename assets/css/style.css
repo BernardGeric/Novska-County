@@ -68,6 +68,7 @@ nav {
 
 #nav-toggle {
     display: none;
+    text-align: center;
 }
 
 .nav-toggle-label {
@@ -79,9 +80,10 @@ main {
     background-color: rgb(36, 197, 71);
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
+    margin-top: 50px;
 }
 
-/* Main content */
+/* Shield */
 
 
 /* Footer */
