@@ -27,8 +27,8 @@ header {
 }
 
 header a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: black;
+    color: black;
 }
 
 h1 {
@@ -77,7 +77,7 @@ nav {
 
 /* Main content */
 main {
-    background-color: rgb(36, 197, 71);
+    background-color: mediumblue;
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
     margin-top: 50px;
@@ -87,7 +87,7 @@ main {
 #shield {
     height: 600px;
     width: 100%;
-    background: url("../images/shield-image.webp") no-repeat center center/cover;
+    background: url("../images/shield.png") no-repeat center center/cover;
 }
 
 /* Footer */
