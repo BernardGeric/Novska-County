@@ -87,7 +87,7 @@ main {
 #shield {
     height: 600px;
     width: 100%;
-    
+    background: url("../images/shield-image.webp") no-repeat center center/cover;
 }
 
 /* Footer */
