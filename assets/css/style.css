@@ -38,9 +38,6 @@ h1 {
 }
 
 #history-text {
-    font-size: 130%;
-    position: absolute;
-    width: 35%;
     min-height: 200px;
     padding-top: 40px;
     padding-left: 10px;
