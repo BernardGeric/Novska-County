@@ -48,14 +48,9 @@ h1 {
     margin-bottom: 1em;
 }
 
-.active {
-    border-bottom: 1px solid #3a3a3a;
-}
-
 /* Navbar styles with dropdown toggle */
 nav {
     position: absolute;
-    background-color: #ffffff;
     width: 100%;
     left: 0;
     padding: 0 1rem;
@@ -79,14 +74,14 @@ nav {
 
 /* Main content */
 main {
-    background-color: lightblue;
+    background-color: rgb(36, 197, 71);
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
 }
 
 /* Main content */
 main {
-    background-color: lightgreen;
+    background-color: rgb(114, 177, 248);
 }
 
 /* Footer */
