@@ -37,6 +37,7 @@ h1 {
     color: #ffffff;
 }
 
+/* History */
 #history-text {
     min-height: 200px;
     padding-top: 40px;
@@ -46,6 +47,15 @@ h1 {
 p {
     font-family: 'Roboto', sans-serif;
 }
+
+ /* Gallery */
+ #photos {
+    display: contents;
+    margin: 10px;
+    width: 300px; /* Adjust the width as needed */
+    line-height: normal; /* Maintain aspect ratio */
+  }
+
 /* Header */
 header {
     background-color: rgb(141, 184, 219);
